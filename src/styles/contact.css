@@ -1,0 +1,25 @@
+/*================================= FORM =====================================*/
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem; 
+    color: white;
+    margin: auto;
+  }
+  input, textarea {
+    margin: auto;
+    font-size: 30px;
+    width: 50%;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    background: #f1a393;
+    border: 2px solid #f86344;
+    resize: none;
+    color: white;
+  }
+  .submit {
+    background-color: #f86344;
+    border: none;
+    outline: none;
+}
