@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/fashion-glasses/static/css/main.37347748.css",
-    "main.js": "/fashion-glasses/static/js/main.6067b127.js",
+    "main.css": "/fashion-glasses/static/css/main.ee3e7767.css",
+    "main.js": "/fashion-glasses/static/js/main.e9f45b76.js",
     "static/media/product_09.png": "/fashion-glasses/static/media/product_09.cb2aee99c5a5f65efeba.png",
     "static/media/remixicon.svg?t=1590207869815": "/fashion-glasses/static/media/remixicon.9cedd2150922ead84869.svg",
-    "static/media/item3.png": "/fashion-glasses/static/media/item3.acc5d6db3082ac5841e9.png",
     "static/media/service-03.png": "/fashion-glasses/static/media/service-03.411211c4992da49206cf.png",
     "static/media/product_3.2.png": "/fashion-glasses/static/media/product_3.2.6cc8db0d1edd159e9902.png",
     "static/media/network.png": "/fashion-glasses/static/media/network.9dafdac7e5f3ae5630d5.png",
@@ -15,11 +14,9 @@
     "static/media/remixicon.eot?t=1590207869815": "/fashion-glasses/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/fashion-glasses/static/media/remixicon.f2616f597cf98f38d234.ttf",
     "static/media/product_01.3.png": "/fashion-glasses/static/media/product_01.3.a221a9fcb95f21c9100e.png",
-    "static/media/item1.png": "/fashion-glasses/static/media/item1.774e0526208152fcd556.png",
     "static/media/location.png": "/fashion-glasses/static/media/location.b0509474cce245e3dee9.png",
     "static/media/product_4.2.png": "/fashion-glasses/static/media/product_4.2.7b2078a5a27faa5cc5ba.png",
     "static/media/product_01.png": "/fashion-glasses/static/media/product_01.2277bc0a120596801319.png",
-    "static/media/item2.png": "/fashion-glasses/static/media/item2.ded7084455a6a03bac0f.png",
     "static/media/category-01.png": "/fashion-glasses/static/media/category-01.d72d0a778cc53d614b93.png",
     "static/media/product_3.1.png": "/fashion-glasses/static/media/product_3.1.5ac22262cfee4b3b985d.png",
     "static/media/bread(1).png": "/fashion-glasses/static/media/bread(1).08240138928e7700da6c.png",
@@ -48,11 +45,11 @@
     "static/media/slick.ttf": "/fashion-glasses/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/fashion-glasses/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/fashion-glasses/index.html",
-    "main.37347748.css.map": "/fashion-glasses/static/css/main.37347748.css.map",
-    "main.6067b127.js.map": "/fashion-glasses/static/js/main.6067b127.js.map"
+    "main.ee3e7767.css.map": "/fashion-glasses/static/css/main.ee3e7767.css.map",
+    "main.e9f45b76.js.map": "/fashion-glasses/static/js/main.e9f45b76.js.map"
   },
   "entrypoints": [
-    "static/css/main.37347748.css",
-    "static/js/main.6067b127.js"
+    "static/css/main.ee3e7767.css",
+    "static/js/main.e9f45b76.js"
   ]
 }
