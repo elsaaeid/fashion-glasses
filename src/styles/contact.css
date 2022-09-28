@@ -3,10 +3,11 @@
 form {
     display: flex;
     flex-direction: column;
-    gap: 1.2rem; 
+    gap: 1.2rem;
     color: white;
     margin: auto;
-  }
+    align-items: center;
+}
   input, textarea {
     margin: auto;
     font-size: 30px;

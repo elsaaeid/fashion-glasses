@@ -18,9 +18,6 @@ import featureImg03 from "../assets/images/service-02.png";
 
 import products from "../assets/fake-data/products.js";
 
-import CategoryImg01 from "../assets/images/item1.png";
-import CategoryImg02 from "../assets/images/item2.png";
-import CategoryImg03 from "../assets/images/item3.png";
 
 import ProductCard from "../components/UI/product-card/ProductCard.jsx";
 
@@ -209,7 +206,6 @@ const Home = () => {
                   } `}
                   onClick={() => setCategory("Aviator")}
                 >
-                  <img src={CategoryImg01} alt="" />
                   Aviator
                 </button>
 
@@ -219,7 +215,6 @@ const Home = () => {
                   } `}
                   onClick={() => setCategory("Browline")}
                 >
-                  <img src={CategoryImg02} alt="" />
                   Browline
                 </button>
 
@@ -229,7 +224,6 @@ const Home = () => {
                   } `}
                   onClick={() => setCategory("RetroSquare")}
                 >
-                  <img src={CategoryImg03} alt="" />
                   Retro Square
                 </button>
               </div>
