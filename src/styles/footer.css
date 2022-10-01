@@ -53,6 +53,8 @@
   background: transparent;
   border: none;
   outline: none;
+  font-size: 12px;
+  color: black;
 }
 
 .newsletter input:focus {
