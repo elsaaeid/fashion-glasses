@@ -41,8 +41,8 @@ const AllGlasses = () => {
   };
 
   return (
-    <Helmet title="All-Foods">
-      <CommonSection title="All Foods" />
+    <Helmet title="All-glasses">
+      <CommonSection title="All glasses" />
 
       <section>
         <Container>
