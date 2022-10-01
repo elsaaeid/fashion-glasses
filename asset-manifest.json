@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fashion-glasses/static/css/main.2df867a0.css",
-    "main.js": "/fashion-glasses/static/js/main.ef45076c.js",
+    "main.js": "/fashion-glasses/static/js/main.510d21d5.js",
     "static/media/product_09.png": "/fashion-glasses/static/media/product_09.cb2aee99c5a5f65efeba.png",
     "static/media/remixicon.svg?t=1590207869815": "/fashion-glasses/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/service-03.png": "/fashion-glasses/static/media/service-03.411211c4992da49206cf.png",
@@ -46,10 +46,10 @@
     "static/media/slick.woff": "/fashion-glasses/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/fashion-glasses/index.html",
     "main.2df867a0.css.map": "/fashion-glasses/static/css/main.2df867a0.css.map",
-    "main.ef45076c.js.map": "/fashion-glasses/static/js/main.ef45076c.js.map"
+    "main.510d21d5.js.map": "/fashion-glasses/static/js/main.510d21d5.js.map"
   },
   "entrypoints": [
     "static/css/main.2df867a0.css",
-    "static/js/main.ef45076c.js"
+    "static/js/main.510d21d5.js"
   ]
 }
